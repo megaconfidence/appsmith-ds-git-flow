@@ -4,6 +4,7 @@
     "widgetName": "Container1",
     "borderColor": "#E0DEDE",
     "isCanvas": true,
+    "dynamicPropertyPathList": [{"key": "backgroundColor"}],
     "displayName": "Container",
     "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.daebf68875b6c8e909e9e8ac8bee0c02.svg",
     "searchTags": [
@@ -20,7 +21,8 @@
     "mobileRightColumn": 34,
     "animateLoading": true,
     "parentColumnSpace": 17.078125,
-    "leftColumn": 10,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"}
@@ -60,9 +62,9 @@
     "borderWidth": "1",
     "flexVerticalAlignment": "start",
     "key": "aavlz5zzw2",
-    "backgroundColor": "#FFFFFF",
+    "backgroundColor": "url(\"https://cdn.pixabay.com/photo/2023/06/14/17/55/nature-8063737_1280.jpg\")",
     "isDeprecated": false,
-    "rightColumn": 53,
+    "rightColumn": 64,
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "12p4g16oq2",
     "containerStyle": "card",
